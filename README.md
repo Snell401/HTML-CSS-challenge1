@@ -5,7 +5,7 @@ Welcome to the challenge
 
 Task and motivation
 
-You will be creating a static webpage that is based on a reference image. 
+You will be creating a static webpage that is based on a reference image. This challenge is about being able to take a clients wishes and ensuring you can follow a guide.
 
 Scenario: A friend has been blogging their interior design articles, but isn’t happy with how bland they appear. They have asked you to help them create a more polished looking blog in the hopes of gaining more viewers. They have provided you with this image for reference:
 
